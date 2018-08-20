@@ -1,0 +1,59 @@
+
+
+.jumbotron{
+  background-image: url("../img/Header.jpg");
+  background-size: cover;
+  background-position: center;
+
+}
+
+
+h1 {
+  font-family: 'Bungee Inline', sans-serif;
+  text-shadow: 2px 2px black;
+  color: #f9f7e5;
+}
+
+.headertext p {
+  font-size: 1.5em;
+  font-stretch: expanded;
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.navbar-nav {
+  padding-left: 150px;
+}
+
+.nav-link {
+  color: #f9f7e5;
+  font-family: 'Bungee Inline', sans-serif;
+  font-size: 1.5em;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px black;
+}
+
+.nav-link:hover  {
+  color: #f4df42;
+}
+
+.grid-container {
+  column-gap: 0px;
+
+
+}
+
+.thumbnail {
+  width: 75%;
+  height: 75%;
+}
+
+
+
+/* .navbar-toggler {
+  background-color: white;
+} */
