@@ -1,4 +1,8 @@
 
+body {
+  background-color: #bbce94;
+}
+
 
 .jumbotron{
   background-image: url("../img/Header.jpg");
@@ -12,6 +16,10 @@ h1 {
   font-family: 'Bungee Inline', sans-serif;
   text-shadow: 2px 2px black;
   color: #f9f7e5;
+}
+
+h2 {
+  font-family: 'Sawarabi Gothic', sans-serif;
 }
 
 .headertext p {
@@ -41,18 +49,24 @@ h1 {
   color: #f4df42;
 }
 
-.grid-container {
-  column-gap: 0px;
-
-
+.about {
+  background-color: #d6e0c0;
+  padding: 10px;
 }
 
-.thumbnail {
-  width: 75%;
-  height: 75%;
+.upcoming {
+  background-color: #d6e0c0;
+  padding: 10px;
+}
+
+.list-group-item {
+  background-color: #f9f7e5;
 }
 
 
+.photos-grid {
+  padding-top: 20px;
+}
 
 /* .navbar-toggler {
   background-color: white;
