@@ -15,61 +15,76 @@
 }
 
 .grid-item-1 {
-  background-image: url('../img/midnightclimb1.jpg');
+  background-image: url('../img/pokerrun13.jpg');
   background-size: cover;
 }
 
 .grid-item-2 {
-  background-image: url('../img/midnightclimb2.jpg');
+  background-image: url('../img/pokerrun12.jpg');
   background-size: cover;
 }
 
 .grid-item-3 {
-  background-image: url('../img/midnightclimb3.jpg');
+  background-image: url('../img/pokerrun11.jpg');
   background-size: cover;
 }
 
 .grid-item-4 {
-  background-image: url('../img/midnightclimb4.jpg');
+  background-image: url('../img/midnightclimb1.jpg');
   background-size: cover;
 }
 
 .grid-item-5 {
-  background-image: url('../img/pizzarun1.jpg');
+  background-image: url('../img/midnightclimb2.jpg');
   background-size: cover;
 }
 
 .grid-item-6 {
-  background-image: url('../img/thanksgivingrun1.jpg');
+  background-image: url('../img/midnightclimb3.jpg');
   background-size: cover;
 }
 
 .grid-item-7 {
-  background-image: url('../img/thanksgivingrun2.jpg');
+  background-image: url('../img/midnightclimb4.jpg');
   background-size: cover;
 }
 
 .grid-item-8 {
-  background-image: url('../img/thanksgivingrun4.jpg');
+  background-image: url('../img/pizzarun1.jpg');
   background-size: cover;
 }
 
 .grid-item-9 {
-  background-image: url('../img/pokerrun1.jpg');
+  background-image: url('../img/thanksgivingrun1.jpg');
   background-size: cover;
 }
 
 .grid-item-10 {
-  background-image: url('../img/pokerrun3.jpg');
+  background-image: url('../img/thanksgivingrun2.jpg');
   background-size: cover;
 }
 
 .grid-item-11 {
-  background-image: url('../img/pokerrun4.jpg');
+  background-image: url('../img/thanksgivingrun4.jpg');
   background-size: cover;
 }
 
 .grid-item-12 {
+  background-image: url('../img/pokerrun1.jpg');
+  background-size: cover;
+}
+
+.grid-item-13 {
+  background-image: url('../img/pokerrun3.jpg');
+  background-size: cover;
+}
+
+.grid-item-14 {
+  background-image: url('../img/pokerrun4.jpg');
+  background-size: cover;
+}
+
+.grid-item-15 {
   background-image: url('../img/icecreamrun2.jpg');
   background-size: cover;
 }
